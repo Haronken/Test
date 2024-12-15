@@ -1,0 +1,36 @@
+# Folders
+cache/
+versions/
+libraries/
+logs/
+
+# Worlds
+world/
+world_nether/
+world_the_end/
+
+# Miscellaneous JSON and YML files
+.console_history
+banned-ips.json
+banned-players.json
+commands.yml
+eula.txt
+help.yml
+ops.json
+permissions.yml
+usercache.json
+version_history.json
+whitelist.json
+
+# Plugin Folders
+plugins/.paper-remapped
+
+plugins/GSit/data/
+plugins/GSit/lang/
+
+plugins/SkinsRestorer/cache/
+plugins/SkinsRestorer/cooldowns/
+plugins/SkinsRestorer/locales/
+plugins/SkinsRestorer/players/
+plugins/SkinsRestorer/skins/
+plugins/SkinsRestorer/recommendations.json
