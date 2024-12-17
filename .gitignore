@@ -21,6 +21,7 @@ permissions.yml
 usercache.json
 version_history.json
 whitelist.json
+map-color-cache.dat
 
 # Plugin Folders
 plugins/.paper-remapped
@@ -34,3 +35,6 @@ plugins/SkinsRestorer/locales/
 plugins/SkinsRestorer/players/
 plugins/SkinsRestorer/skins/
 plugins/SkinsRestorer/recommendations.json
+plugins/ImageFrame/data
+plugins/ImageFrame/players
+plugins/ResourcePackManager/output
